@@ -1,0 +1,895 @@
+TNyhtr
+v7
+r0
+t302028816.233526
+cCheck dependencies
+cProcessInfoPlistFile /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Info.plist Nyhtr-Info.plist
+cCompileXIB /Users/karlroos/Downloads/Nyhtr-5/XIBs/CategoryListView.xib
+cCompileXIB /Users/karlroos/Downloads/Nyhtr-5/XIBs/CustomizedTableCellsView.xib
+cCompileXIB /Users/karlroos/Downloads/Nyhtr-5/XIBs/ItemListView.xib
+cCompileXIB /Users/karlroos/Downloads/Nyhtr-5/XIBs/MainWindow.xib
+cCompileXIB /Users/karlroos/Downloads/Nyhtr-5/XIBs/NyhtrViewController.xib
+cCompileXIB /Users/karlroos/Downloads/Nyhtr-5/XIBs/WebView.xib
+cCpResource build/Debug-iphonesimulator/Nyhtr.app/Default.png XIBs/Default.png
+cCpResource build/Debug-iphonesimulator/Nyhtr.app/header.png XIBs/header.png
+cProcessPCH /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch.gch Nyhtr_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/main.o /Users/karlroos/Downloads/Nyhtr-5/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrAppDelegate.o /Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrViewController.o /Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CategoryListViewCtrl.o /Users/karlroos/Downloads/Nyhtr-5/Classes/CategoryListViewCtrl.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ItemListViewCtrl.o /Users/karlroos/Downloads/Nyhtr-5/Classes/ItemListViewCtrl.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/WebViewCtrl.o /Users/karlroos/Downloads/Nyhtr-5/Classes/WebViewCtrl.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CustomizedTableCells.o /Users/karlroos/Downloads/Nyhtr-5/Classes/CustomizedTableCells.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ServerConnection.o /Users/karlroos/Downloads/Nyhtr-5/Classes/ServerConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GDataXMLNode.o /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GDataXMLNode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GSNSDataExtensions.o /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GSNSDataExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/XMLNodeString.o /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/XMLNodeString.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/DataStorage.o /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/DataStorage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UICachedImageMgr.o /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UICachedImageMgr.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/HttpConnection.o /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIUtils.o /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIUtils.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIPrefix.o /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIPrefix.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr normal i386
+cGenerateDSYMFile /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app.dSYM /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr
+cTouch /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2/libxml/parser.h
+c000000004BFE06DE00000000000098A9
+t1274939102
+s39081
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2/libxml/tree.h
+c000000004BFE06DE0000000000008F14
+t1274939102
+s36628
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2/libxml/xmlstring.h
+c000000004BFE06DE000000000000155A
+t1274939102
+s5466
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2/libxml/xpath.h
+c000000004BFE06DE0000000000003F47
+t1274939102
+s16199
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c000000004BFE06DE0000000000004BF8
+t1274939102
+s19448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C4351FC0000000000000132
+t1279480316
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CALayer.h
+c000000004C04586C00000000000075CA
+t1275353196
+s30154
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C0458E90000000000151D30
+t1275353321
+s1383728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SCNetworkReachability.h
+c000000004BFDFDA500000000000035F8
+t1274936741
+s13816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h
+c000000004C0470BB00000000000038DB
+t1275359419
+s14555
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/netinet/in.h
+c000000004A73D64C000000000000539D
+t1249105484
+s21405
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/libxml2.2.dylib
+c000000004BFDFE030000000000122A80
+t1274936835
+s1190528
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/DataStorage.h
+c000000004C503FE500000000000000F8
+t1280327653
+s248
+i<Foundation/Foundation.h>
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/DataStorage.m
+c000000004C503FE50000000000000186
+t1280327653
+s390
+i"DataStorage.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GDataXMLNode.m
+c000000004C503FE5000000000000A302
+t1280327653
+s41730
+i"GDataXMLNode.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GSNSDataExtensions.m
+c000000004C503FE50000000000005E71
+t1280327653
+s24177
+i"GSNSDataExtensions.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/XMLNodeString.m
+c000000004C503FE50000000000002186
+t1280327653
+s8582
+i"XMLNodeString.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/CategoryListViewCtrl.h
+c000000004C503FE50000000000000158
+t1280327653
+s344
+i<UIKit/UIKit.h>
+i"ServerConnection.h"
+i"NyhtrAppDelegate.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/CategoryListViewCtrl.m
+c000000004C503FE50000000000001812
+t1280327653
+s6162
+i"DataStorage.h"
+i"CommonLiterals.h"
+i"ItemListViewCtrl.h"
+i"CategoryListViewCtrl.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/CommonLiterals.h
+c000000004C503FE5000000000000082F
+t1280327653
+s2095
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/CustomizedTableCells.h
+c000000004C503FE50000000000000314
+t1280327653
+s788
+i<UIKit/UIKit.h>
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/CustomizedTableCells.m
+c000000004C503FE50000000000000F46
+t1280327653
+s3910
+i"CustomizedTableCells.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/ItemListViewCtrl.h
+c000000004C503FE500000000000001F5
+t1280327653
+s501
+i<UIKit/UIKit.h>
+i"CustomizedTableCells.h"
+i"GDataDefines.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/ItemListViewCtrl.m
+c000000004C503FE50000000000001479
+t1280327653
+s5241
+i"XMLNodeString.h"
+i"NyhtrAppDelegate.h"
+i"CommonLiterals.h"
+i"WebViewCtrl.h"
+i"ItemListViewCtrl.h"
+i"DataStorage.h"
+i"UICachedImageMgr.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrAppDelegate.h
+c000000004C503FE50000000000000337
+t1280327653
+s823
+i<UIKit/UIKit.h>
+i"ServerConnection.h"
+i"NyhtrViewController.h"
+i"CommonLiterals.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrAppDelegate.m
+c000000004C503FE5000000000000050E
+t1280327653
+s1294
+i"NyhtrAppDelegate.h"
+i"DataStorage.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrViewController.h
+c000000004C503FE500000000000000AE
+t1280327653
+s174
+i<UIKit/UIKit.h>
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrViewController.m
+c000000004C503FE50000000000000265
+t1280327653
+s613
+i"NyhtrViewController.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/ServerConnection.h
+c000000004C503FE500000000000001B4
+t1280327653
+s436
+i<Foundation/Foundation.h>
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/ServerConnection.m
+c000000004C503FE50000000000000914
+t1280327653
+s2324
+i"UIPrefix.h"
+i"XMLNodeString.h"
+i"NyhtrAppDelegate.h"
+i"ServerConnection.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/GDataDefines.h
+c000000004C503FE50000000000000B5F
+t1280327653
+s2911
+i"GDataXMLNode.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/GDataXMLNode.h
+c000000004C503FE500000000000018B2
+t1280327653
+s6322
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+i<libxml/parser.h>
+i<libxml/xmlstring.h>
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+i"GDataDefines.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/GSNSDataExtensions.h
+c000000004C503FE50000000000000AE5
+t1280327653
+s2789
+i<Foundation/Foundation.h>
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.h
+c000000004C503FE500000000000004EF
+t1280327653
+s1263
+i"UIPrefix.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m
+c000000004C503FE500000000000013C7
+t1280327653
+s5063
+i"UIUtils.h"
+i"HttpConnection.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UICachedImageMgr.h
+c000000004C503FE50000000000000620
+t1280327653
+s1568
+i"HttpConnection.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UICachedImageMgr.m
+c000000004C503FE5000000000000283A
+t1280327653
+s10298
+i"UIUtils.h"
+i"UICachedImageMgr.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIPrefix.h
+c000000004C503FE50000000000001259
+t1280327653
+s4697
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIPrefix.m
+c000000004C503FE500000000000001FE
+t1280327653
+s510
+i"UIPrefix.h"
+i"UIUtils.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIUtils.h
+c000000004C503FE500000000000004FF
+t1280327653
+s1279
+i<UIKit/UIKit.h>
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIUtils.m
+c000000004C503FE5000000000000185F
+t1280327653
+s6239
+i<SystemConfiguration/SCNetworkReachability.h>
+i<netinet/in.h>
+i"GSNSDataExtensions.h"
+i"UIUtils.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/XMLNodeString.h
+c000000004C503FE500000000000008F8
+t1280327653
+s2296
+i"GDataXMLNode.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/WebViewCtrl.h
+c000000004C503FE500000000000001B0
+t1280327653
+s432
+i"GDataDefines.h"
+i<UIKit/UIKit.h>
+
+N/Users/karlroos/Downloads/Nyhtr-5/Classes/WebViewCtrl.m
+c000000004C503FE50000000000000830
+t1280327653
+s2096
+i"WebViewCtrl.h"
+i"XMLNodeString.h"
+i<QuartzCore/CALayer.h>
+i<UIKit/UIView.h>
+
+N/Users/karlroos/Downloads/Nyhtr-5/Nyhtr_Prefix.pch
+c000000004C503FE500000000000000C9
+t1280327653
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"UIPrefix.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Utils/DataStorage.h
+c000000004C503FE500000000000000F8
+t1280327653
+s248
+i<Foundation/Foundation.h>
+
+N/Users/karlroos/Downloads/Nyhtr-5/Utils/GDataDefines.h
+c000000004C503FE50000000000000B5F
+t1280327653
+s2911
+i"GDataXMLNode.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Utils/GDataXMLNode.h
+c000000004C503FE500000000000018B2
+t1280327653
+s6322
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+i<libxml/parser.h>
+i<libxml/xmlstring.h>
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+i"GDataDefines.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/Utils/GSNSDataExtensions.h
+c000000004C503FE50000000000000AE5
+t1280327653
+s2789
+i<Foundation/Foundation.h>
+
+N/Users/karlroos/Downloads/Nyhtr-5/Utils/XMLNodeString.h
+c000000004C503FE500000000000008F8
+t1280327653
+s2296
+i"GDataXMLNode.h"
+
+N/Users/karlroos/Downloads/Nyhtr-5/XIBs/CategoryListView.xib
+c000000004C503FE500000000000046F0
+t1280327653
+s18160
+
+N/Users/karlroos/Downloads/Nyhtr-5/XIBs/CustomizedTableCellsView.xib
+c000000004C503FE500000000000018AD
+t1280327653
+s6317
+
+N/Users/karlroos/Downloads/Nyhtr-5/XIBs/Default.png
+c000000004C503FE5000000000002E568
+t1280327653
+s189800
+
+N/Users/karlroos/Downloads/Nyhtr-5/XIBs/ItemListView.xib
+c000000004C503FE500000000000046E1
+t1280327653
+s18145
+
+N/Users/karlroos/Downloads/Nyhtr-5/XIBs/MainWindow.xib
+c000000004C503FE50000000000004C00
+t1280327653
+s19456
+
+N/Users/karlroos/Downloads/Nyhtr-5/XIBs/NyhtrViewController.xib
+c000000004C503FE500000000000056E8
+t1280327653
+s22248
+
+N/Users/karlroos/Downloads/Nyhtr-5/XIBs/WebView.xib
+c000000004C503FE50000000000004DC0
+t1280327653
+s19904
+
+N/Users/karlroos/Downloads/Nyhtr-5/XIBs/header.png
+c000000004C503FE50000000000006D4F
+t1280327653
+s27983
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app
+t1280336016
+s442
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app.dSYM
+t1280336016
+s102
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/CategoryListView.nib
+t1280336012
+s1067
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/CustomizedTableCellsView.nib
+t1280336012
+s1197
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Default.png
+t1280336013
+s189800
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Info.plist
+t1280336012
+s610
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/ItemListView.nib
+t1280336013
+s1067
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/MainWindow.nib
+t1280336013
+s1095
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr
+t1280336016
+s150860
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/NyhtrViewController.nib
+t1280336014
+s1422
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/PkgInfo
+t1280336012
+s8
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/WebView.nib
+t1280336013
+s1171
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/header.png
+t1280336013
+s27983
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CategoryListViewCtrl.o
+t1280336015
+s64108
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CustomizedTableCells.o
+t1280336015
+s46792
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/DataStorage.o
+t1280336015
+s8788
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GDataXMLNode.o
+t1280336015
+s82592
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GSNSDataExtensions.o
+t1280336015
+s14132
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/HttpConnection.o
+t1280336016
+s29124
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ItemListViewCtrl.o
+t1280336015
+s62148
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/Nyhtr.LinkFileList
+c000000004C50608C00000000000007AD
+t1280336012
+s1965
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrAppDelegate.o
+t1280336015
+s53312
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrViewController.o
+t1280336015
+s38412
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ServerConnection.o
+t1280336015
+s54952
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UICachedImageMgr.o
+t1280336016
+s75988
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIPrefix.o
+t1280336016
+s7492
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIUtils.o
+t1280336016
+s58144
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/WebViewCtrl.o
+t1280336015
+s47712
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/XMLNodeString.o
+t1280336015
+s45044
+
+N/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/main.o
+t1280336015
+s6292
+
+N/Users/karlroos/Downloads/Nyhtr-5/main.m
+c000000004C503FE50000000000000164
+t1280327653
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch.gch
+t1280336014
+s15289392
+
+NNyhtr-Info.plist
+c000000004C503FE500000000000003B4
+t1280327653
+s948
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302028812#302028812#0(0"0(0#1#0"8605082816#0"0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CategoryListViewCtrl.o /Users/karlroos/Downloads/Nyhtr-5/Classes/CategoryListViewCtrl.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028815.106871
+e302028815.347302
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CategoryListViewCtrl.o
+x/Users/karlroos/Downloads/Nyhtr-5/Classes/CategoryListViewCtrl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/CategoryListViewCtrl.m302028815#302028815#0(0"0(0#0#64"/Users/karlroos/Downloads/Nyhtr-5/Classes/CategoryListViewCtrl.m8606395200#1938"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/CategoryListViewCtrl.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CategoryListViewCtrl.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CustomizedTableCells.o /Users/karlroos/Downloads/Nyhtr-5/Classes/CustomizedTableCells.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028815.378653
+e302028815.462339
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CustomizedTableCells.o
+x/Users/karlroos/Downloads/Nyhtr-5/Classes/CustomizedTableCells.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/CustomizedTableCells.m302028815#302028815#0(0"0(0#0#64"/Users/karlroos/Downloads/Nyhtr-5/Classes/CustomizedTableCells.m8606024544#1938"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/CustomizedTableCells.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CustomizedTableCells.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/DataStorage.o /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/DataStorage.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028815.875268
+e302028815.938693
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/DataStorage.o
+x/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/DataStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/DataStorage.m302028815#302028815#0(0"0(0#0#64"/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/DataStorage.m8608059584#1929"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/DataStorage.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/DataStorage.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GDataXMLNode.o /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GDataXMLNode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028815.538937
+e302028815.917445
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GDataXMLNode.o
+x/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GDataXMLNode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GDataXMLNode.m302028815#302028815#0(0"0(0#0#65"/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GDataXMLNode.m8601334816#1931"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GDataXMLNode.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GDataXMLNode.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GSNSDataExtensions.o /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GSNSDataExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028815.629503
+e302028815.713027
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GSNSDataExtensions.o
+x/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GSNSDataExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GSNSDataExtensions.m302028815#302028815#0(0"0(0#0#71"/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GSNSDataExtensions.m8608340960#1943"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GSNSDataExtensions.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GSNSDataExtensions.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/HttpConnection.o /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028815.938805
+e302028816.034856
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/HttpConnection.o
+x/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m: In function '-[HttpConnection connectionDidFinishLoading:]':
+o/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m:207: warning: format not a string literal and no format arguments
+lSLF07#2@72"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m302028815#302028816#0(258"/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m: In function '-[HttpConnection connectionDidFinishLoading:]':/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m:207: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments302028815#127#131#0(6@64"/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m302020453#207#0#207#0#51"format not a string literal and no format arguments0(0#0#64"/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m8605256384#1932"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/HttpConnection.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ItemListViewCtrl.o /Users/karlroos/Downloads/Nyhtr-5/Classes/ItemListViewCtrl.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028815.191332
+e302028815.378550
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ItemListViewCtrl.o
+x/Users/karlroos/Downloads/Nyhtr-5/Classes/ItemListViewCtrl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/ItemListViewCtrl.m302028815#302028815#0(0"0(0#0#60"/Users/karlroos/Downloads/Nyhtr-5/Classes/ItemListViewCtrl.m8610045152#1930"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/ItemListViewCtrl.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ItemListViewCtrl.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrAppDelegate.o /Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028814.982303
+e302028815.106766
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrAppDelegate.o
+x/Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrAppDelegate.m302028814#302028815#0(0"0(0#0#60"/Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrAppDelegate.m8605572992#1930"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrAppDelegate.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrAppDelegate.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrViewController.o /Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028815.083131
+e302028815.191240
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrViewController.o
+x/Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrViewController.m302028815#302028815#0(0"0(0#0#63"/Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrViewController.m8608470656#1936"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrViewController.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrViewController.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ServerConnection.o /Users/karlroos/Downloads/Nyhtr-5/Classes/ServerConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028815.462499
+e302028815.629403
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ServerConnection.o
+x/Users/karlroos/Downloads/Nyhtr-5/Classes/ServerConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/ServerConnection.m302028815#302028815#0(0"0(0#0#60"/Users/karlroos/Downloads/Nyhtr-5/Classes/ServerConnection.m8605409024#1930"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/ServerConnection.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ServerConnection.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UICachedImageMgr.o /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UICachedImageMgr.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028815.917548
+e302028816.076691
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UICachedImageMgr.o
+x/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UICachedImageMgr.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UICachedImageMgr.m302028815#302028816#0(0"0(0#0#66"/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UICachedImageMgr.m8606588256#1936"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UICachedImageMgr.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UICachedImageMgr.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIPrefix.o /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIPrefix.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028816.076797
+e302028816.128454
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIPrefix.o
+x/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIPrefix.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIPrefix.m302028816#302028816#0(0"0(0#0#58"/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIPrefix.m8605401600#1920"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIPrefix.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIPrefix.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIUtils.o /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIUtils.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028816.034971
+e302028816.143952
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIUtils.o
+x/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIUtils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIUtils.m302028816#302028816#0(0"0(0#0#57"/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIUtils.m8602970720#1918"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIUtils.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIUtils.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/WebViewCtrl.o /Users/karlroos/Downloads/Nyhtr-5/Classes/WebViewCtrl.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028815.347409
+e302028815.538836
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/WebViewCtrl.o
+x/Users/karlroos/Downloads/Nyhtr-5/Classes/WebViewCtrl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/WebViewCtrl.m302028815#302028815#0(0"0(0#0#55"/Users/karlroos/Downloads/Nyhtr-5/Classes/WebViewCtrl.m8606378016#1920"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/WebViewCtrl.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/WebViewCtrl.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/XMLNodeString.o /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/XMLNodeString.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028815.713130
+e302028815.875159
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/XMLNodeString.o
+x/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/XMLNodeString.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/XMLNodeString.m302028815#302028815#0(0"0(0#0#66"/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/XMLNodeString.m8606600864#1933"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/XMLNodeString.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/XMLNodeString.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/main.o /Users/karlroos/Downloads/Nyhtr-5/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028814.981151
+e302028815.083030
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/main.o
+x/Users/karlroos/Downloads/Nyhtr-5/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/karlroos/Downloads/Nyhtr-5/main.m302028814#302028815#0(0"0(0#0#40"/Users/karlroos/Downloads/Nyhtr-5/main.m8609823104#1898"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/main.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/karlroos/Downloads/Nyhtr-5/XIBs/CategoryListView.xib
+s302028812.253607
+e302028812.729679
+r1
+xCompileXIB
+x/Users/karlroos/Downloads/Nyhtr-5/XIBs/CategoryListView.xib
+lSLF07#2@36"CompileXIB XIBs/CategoryListView.xib302028812#302028812#0(0"0(0#0#59"/Users/karlroos/Downloads/Nyhtr-5/XIBs/CategoryListView.xib8605764128#570"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/CategoryListView.nib /Users/karlroos/Downloads/Nyhtr-5/XIBs/CategoryListView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/karlroos/Downloads/Nyhtr-5/XIBs/CustomizedTableCellsView.xib
+s302028812.255640
+e302028812.680534
+r1
+xCompileXIB
+x/Users/karlroos/Downloads/Nyhtr-5/XIBs/CustomizedTableCellsView.xib
+lSLF07#2@44"CompileXIB XIBs/CustomizedTableCellsView.xib302028812#302028812#0(0"0(0#0#67"/Users/karlroos/Downloads/Nyhtr-5/XIBs/CustomizedTableCellsView.xib8605199328#586"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/CustomizedTableCellsView.nib /Users/karlroos/Downloads/Nyhtr-5/XIBs/CustomizedTableCellsView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/karlroos/Downloads/Nyhtr-5/XIBs/ItemListView.xib
+s302028812.680623
+e302028813.448469
+r1
+xCompileXIB
+x/Users/karlroos/Downloads/Nyhtr-5/XIBs/ItemListView.xib
+lSLF07#2@32"CompileXIB XIBs/ItemListView.xib302028812#302028813#0(0"0(0#0#55"/Users/karlroos/Downloads/Nyhtr-5/XIBs/ItemListView.xib8605088320#562"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/ItemListView.nib /Users/karlroos/Downloads/Nyhtr-5/XIBs/ItemListView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/karlroos/Downloads/Nyhtr-5/XIBs/MainWindow.xib
+s302028812.729771
+e302028813.444570
+r1
+xCompileXIB
+x/Users/karlroos/Downloads/Nyhtr-5/XIBs/MainWindow.xib
+lSLF07#2@30"CompileXIB XIBs/MainWindow.xib302028812#302028813#0(0"0(0#0#53"/Users/karlroos/Downloads/Nyhtr-5/XIBs/MainWindow.xib8599911008#558"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/MainWindow.nib /Users/karlroos/Downloads/Nyhtr-5/XIBs/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/karlroos/Downloads/Nyhtr-5/XIBs/NyhtrViewController.xib
+s302028813.444663
+e302028814.014995
+r1
+xCompileXIB
+x/Users/karlroos/Downloads/Nyhtr-5/XIBs/NyhtrViewController.xib
+lSLF07#2@39"CompileXIB XIBs/NyhtrViewController.xib302028813#302028814#0(0"0(0#0#62"/Users/karlroos/Downloads/Nyhtr-5/XIBs/NyhtrViewController.xib8601424544#576"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/NyhtrViewController.nib /Users/karlroos/Downloads/Nyhtr-5/XIBs/NyhtrViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/karlroos/Downloads/Nyhtr-5/XIBs/WebView.xib
+s302028813.448560
+e302028813.957273
+r1
+xCompileXIB
+x/Users/karlroos/Downloads/Nyhtr-5/XIBs/WebView.xib
+lSLF07#2@27"CompileXIB XIBs/WebView.xib302028813#302028813#0(0"0(0#0#50"/Users/karlroos/Downloads/Nyhtr-5/XIBs/WebView.xib8608689728#552"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/WebView.nib /Users/karlroos/Downloads/Nyhtr-5/XIBs/WebView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Nyhtr.app/Default.png XIBs/Default.png
+s302028813.957404
+e302028813.964762
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nyhtr.app/Default.png
+xXIBs/Default.png
+lSLF07#2@21"Copy XIBs/Default.png302028813#302028813#0(0"0(0#0#50"/Users/karlroos/Downloads/Nyhtr-5/XIBs/Default.png8605599552#443"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/karlroos/Downloads/Nyhtr-5/XIBs/Default.png /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app0#
+
+CCpResource build/Debug-iphonesimulator/Nyhtr.app/header.png XIBs/header.png
+s302028813.958268
+e302028813.963952
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Nyhtr.app/header.png
+xXIBs/header.png
+lSLF07#2@20"Copy XIBs/header.png302028813#302028813#0(0"0(0#0#49"/Users/karlroos/Downloads/Nyhtr-5/XIBs/header.png8604760224#442"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/karlroos/Downloads/Nyhtr-5/XIBs/header.png /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app0#
+
+CGenerateDSYMFile /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app.dSYM /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr
+s302028816.188231
+e302028816.230197
+r1
+xGenerateDSYMFile
+x/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app.dSYM
+x/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Nyhtr.app.dSYM build/Debug-iphonesimulator/Nyhtr.app/Nyhtr302028816#302028816#0(0"0(0#0#77"/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr8605947872#362"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr -o /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app.dSYM0#
+
+CLd /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr normal i386
+s302028816.144047
+e302028816.188131
+r1
+xLd
+x/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr
+xnormal
+xi386
+lSLF07#2@82"Link /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr302028816#302028816#0(0"0(0#0#0"8601003712#932"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -L/Users/karlroos/Downloads/Nyhtr-5 -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -filelist /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/Nyhtr.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lxml2.2 -framework QuartzCore -o /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr0#
+
+CProcessInfoPlistFile /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Info.plist Nyhtr-Info.plist
+s302028812.249997
+e302028812.253525
+r1
+xProcessInfoPlistFile
+x/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Info.plist
+xNyhtr-Info.plist
+lSLF07#2@24"Process Nyhtr-Info.plist302028812#302028812#0(0"0(0#0#50"/Users/karlroos/Downloads/Nyhtr-5/Nyhtr-Info.plist30681223440564324#458"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Nyhtr-Info.plist -genpkginfo /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Info.plist0#
+
+CProcessPCH /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch.gch Nyhtr_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302028814.015127
+e302028814.981037
+r1
+xProcessPCH
+x/var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch.gch
+xNyhtr_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Nyhtr_Prefix.pch302028814#302028814#0(0"0(0#0#50"/Users/karlroos/Downloads/Nyhtr-5/Nyhtr_Prefix.pch8600836384#1797"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -c /Users/karlroos/Downloads/Nyhtr-5/Nyhtr_Prefix.pch -o /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch.gch0#
+
+CTouch /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app
+s302028816.230284
+e302028816.233476
+r1
+xTouch
+x/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app
+lSLF07#2@77"Touch /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app302028816#302028816#0(0"0(0#0#0"8605018528#266"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app0#
+
