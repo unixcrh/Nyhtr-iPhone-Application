@@ -1,38 +1,38 @@
 TNyhtr
 v7
 r0
-t309357175.556996
+t309445005.997431
 cCheck dependencies
-cProcessInfoPlistFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Info.plist" Nyhtr-Info.plist
-cCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/XIBs/CategoryListView.xib"
-cCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/XIBs/CustomizedTableCellsView.xib"
-cCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/XIBs/ItemListView.xib"
-cCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/XIBs/MainWindow.xib"
-cCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/XIBs/NyhtrViewController.xib"
-cCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/XIBs/WebView.xib"
+cProcessInfoPlistFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/Info.plist" Nyhtr-Info.plist
+cCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/CategoryListView.xib"
+cCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/CustomizedTableCellsView.xib"
+cCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/ItemListView.xib"
+cCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/MainWindow.xib"
+cCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/NyhtrViewController.xib"
+cCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/WebView.xib"
 cCpResource build/Debug-iphonesimulator/Nyhtr.app/Default.png XIBs/Default.png
 cCpResource build/Debug-iphonesimulator/Nyhtr.app/header.png XIBs/header.png
-cCpResource build/Debug-iphonesimulator/Nyhtr.app/icon_karl.png ../../../../../../Downloads/icon_karl.png
-cProcessPCH /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-fomahrqqfqyazvauvxpkjrybtxjc/Nyhtr_Prefix.pch.gch Nyhtr_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/main.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrAppDelegate.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/NyhtrAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrViewController.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/NyhtrViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CategoryListViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/CategoryListViewCtrl.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ItemListViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/ItemListViewCtrl.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/WebViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/WebViewCtrl.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CustomizedTableCells.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/CustomizedTableCells.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ServerConnection.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/ServerConnection.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GDataXMLNode.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/../Utils/GDataXMLNode.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GSNSDataExtensions.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/../Utils/GSNSDataExtensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/XMLNodeString.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/../Utils/XMLNodeString.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/DataStorage.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/../Utils/DataStorage.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UICachedImageMgr.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/Utils/UICachedImageMgr.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/HttpConnection.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/Utils/HttpConnection.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIUtils.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/Utils/UIUtils.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIPrefix.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/Utils/UIPrefix.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr" normal i386
-cGenerateDSYMFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app.dSYM" "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr"
-cTouch "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app"
+cCpResource build/Debug-iphonesimulator/Nyhtr.app/icon_karl.png ../icon_karl.png
+cProcessPCH /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch.gch Nyhtr_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/main.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrAppDelegate.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrViewController.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CategoryListViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CategoryListViewCtrl.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ItemListViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ItemListViewCtrl.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/WebViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/WebViewCtrl.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CustomizedTableCells.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CustomizedTableCells.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ServerConnection.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ServerConnection.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GDataXMLNode.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GDataXMLNode.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GSNSDataExtensions.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GSNSDataExtensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/XMLNodeString.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/XMLNodeString.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/DataStorage.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/DataStorage.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UICachedImageMgr.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UICachedImageMgr.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/HttpConnection.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIUtils.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIUtils.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIPrefix.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIPrefix.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr" normal i386
+cGenerateDSYMFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app.dSYM" "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr"
+cTouch "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app"
 
 N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2/libxml/parser.h
 c000000004BFE06DE00000000000098A9
@@ -57,6 +57,31 @@ s16199
 N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2/libxml/xpathInternals.h
 c000000004BFE06DE0000000000004BF8
 t1274939102
+s19448
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2/libxml/parser.h
+c000000004CAC02A700000000000098A9
+t1286341287
+s39081
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2/libxml/tree.h
+c000000004CAC02A70000000000008F14
+t1286341287
+s36628
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2/libxml/xmlstring.h
+c000000004CAC02A8000000000000155A
+t1286341288
+s5466
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2/libxml/xpath.h
+c000000004CAC02A70000000000003F47
+t1286341287
+s16199
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c000000004CAC02A70000000000004BF8
+t1286341287
 s19448
 
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
@@ -118,6 +143,66 @@ N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0
 c000000004BFDFE030000000000122A80
 t1274936835
 s1190528
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CAC155A0000000000000110
+t1286346074
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CAC0218000000000029B310
+t1286341144
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CAC0237000000000029D5D0
+t1286341175
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CAC02230000000000001466
+t1286341155
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CALayer.h
+c000000004CAC03CC00000000000075D9
+t1286341580
+s30169
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CAC0495000000000015CDA0
+t1286341781
+s1428896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SCNetworkReachability.h
+c000000004CAC0117000000000000353E
+t1286340887
+s13630
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CAC13700000000000000AA1
+t1286345584
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h
+c000000004CAC137000000000000038E3
+t1286345584
+s14563
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CAC141C000000000074B110
+t1286345756
+s7647504
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet/in.h
+c000000004CABFAB60000000000005462
+t1286339254
+s21602
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libxml2.2.dylib
+c000000004CAC016E0000000000122A50
+t1286340974
+s1190480
 
 N/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/DataStorage.h
 c000000004C503FE500000000000000F8
@@ -551,6 +636,445 @@ t1280336015
 s6292
 
 N/Users/karlroos/Downloads/Nyhtr-5/main.m
+c000000004C503FE50000000000000164
+t1280327653
+s356
+i<UIKit/UIKit.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/../icon_karl.png
+c000000004CC031A000000000000023B6
+t1287664032
+s9142
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/DataStorage.h
+c000000004C503FE500000000000000F8
+t1280327653
+s248
+i<Foundation/Foundation.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/DataStorage.m
+c000000004C503FE50000000000000186
+t1280327653
+s390
+i"DataStorage.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GDataDefines.h
+c000000004C503FE50000000000000B5F
+t1280327653
+s2911
+i"GDataXMLNode.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GDataXMLNode.m
+c000000004C503FE5000000000000A302
+t1280327653
+s41730
+i"GDataXMLNode.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GSNSDataExtensions.m
+c000000004C503FE50000000000005E71
+t1280327653
+s24177
+i"GSNSDataExtensions.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/UIPrefix.h
+c000000004C503FE50000000000001112
+t1280327653
+s4370
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/XMLNodeString.h
+c000000004C503FE500000000000008F8
+t1280327653
+s2296
+i"GDataXMLNode.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/XMLNodeString.m
+c000000004C503FE50000000000002186
+t1280327653
+s8582
+i"XMLNodeString.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CategoryListViewCtrl.h
+c000000004C503FE50000000000000158
+t1280327653
+s344
+i<UIKit/UIKit.h>
+i"ServerConnection.h"
+i"NyhtrAppDelegate.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CategoryListViewCtrl.m
+c000000004C503FE50000000000001812
+t1280327653
+s6162
+i"DataStorage.h"
+i"CommonLiterals.h"
+i"ItemListViewCtrl.h"
+i"CategoryListViewCtrl.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CommonLiterals.h
+c000000004C503FE5000000000000082F
+t1280327653
+s2095
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CustomizedTableCells.h
+c000000004C503FE50000000000000314
+t1280327653
+s788
+i<UIKit/UIKit.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CustomizedTableCells.m
+c000000004C503FE50000000000000F46
+t1280327653
+s3910
+i"CustomizedTableCells.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ItemListViewCtrl.h
+c000000004C503FE500000000000001F5
+t1280327653
+s501
+i<UIKit/UIKit.h>
+i"CustomizedTableCells.h"
+i"GDataDefines.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ItemListViewCtrl.m
+c000000004C503FE50000000000001479
+t1280327653
+s5241
+i"XMLNodeString.h"
+i"NyhtrAppDelegate.h"
+i"CommonLiterals.h"
+i"WebViewCtrl.h"
+i"ItemListViewCtrl.h"
+i"DataStorage.h"
+i"UICachedImageMgr.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrAppDelegate.h
+c000000004C503FE50000000000000337
+t1280327653
+s823
+i<UIKit/UIKit.h>
+i"ServerConnection.h"
+i"NyhtrViewController.h"
+i"CommonLiterals.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrAppDelegate.m
+c000000004C503FE5000000000000050E
+t1280327653
+s1294
+i"NyhtrAppDelegate.h"
+i"DataStorage.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrViewController.h
+c000000004C503FE500000000000000AE
+t1280327653
+s174
+i<UIKit/UIKit.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrViewController.m
+c000000004C503FE50000000000000265
+t1280327653
+s613
+i"NyhtrViewController.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ServerConnection.h
+c000000004C503FE500000000000001B4
+t1280327653
+s436
+i<Foundation/Foundation.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ServerConnection.m
+c000000004C503FE50000000000000914
+t1280327653
+s2324
+i"UIPrefix.h"
+i"XMLNodeString.h"
+i"NyhtrAppDelegate.h"
+i"ServerConnection.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/GSNSDataExtensions.h
+c000000004C503FE50000000000000AE5
+t1280327653
+s2789
+i<Foundation/Foundation.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.h
+c000000004C503FE500000000000004EF
+t1280327653
+s1263
+i"UIPrefix.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.m
+c000000004C503FE500000000000013C7
+t1280327653
+s5063
+i"UIUtils.h"
+i"HttpConnection.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UICachedImageMgr.h
+c000000004C503FE50000000000000620
+t1280327653
+s1568
+i"HttpConnection.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UICachedImageMgr.m
+c000000004C503FE5000000000000283A
+t1280327653
+s10298
+i"UIUtils.h"
+i"UICachedImageMgr.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIPrefix.h
+c000000004C503FE50000000000001259
+t1280327653
+s4697
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIPrefix.m
+c000000004C503FE500000000000001FE
+t1280327653
+s510
+i"UIPrefix.h"
+i"UIUtils.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIUtils.h
+c000000004C503FE500000000000004FF
+t1280327653
+s1279
+i<UIKit/UIKit.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIUtils.m
+c000000004C503FE5000000000000185F
+t1280327653
+s6239
+i<SystemConfiguration/SCNetworkReachability.h>
+i<netinet/in.h>
+i"GSNSDataExtensions.h"
+i"UIUtils.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/WebViewCtrl.h
+c000000004C503FE500000000000001B0
+t1280327653
+s432
+i"GDataDefines.h"
+i<UIKit/UIKit.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/WebViewCtrl.m
+c000000004C503FE50000000000000830
+t1280327653
+s2096
+i"WebViewCtrl.h"
+i"XMLNodeString.h"
+i<QuartzCore/CALayer.h>
+i<UIKit/UIView.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Nyhtr_Prefix.pch
+c000000004C503FE500000000000000C9
+t1280327653
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"UIPrefix.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Utils/DataStorage.h
+c000000004C503FE500000000000000F8
+t1280327653
+s248
+i<Foundation/Foundation.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Utils/GDataDefines.h
+c000000004C503FE50000000000000B5F
+t1280327653
+s2911
+i"GDataXMLNode.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Utils/GDataXMLNode.h
+c000000004C503FE500000000000018B2
+t1280327653
+s6322
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+i<libxml/parser.h>
+i<libxml/xmlstring.h>
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+i"GDataDefines.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Utils/GSNSDataExtensions.h
+c000000004C503FE50000000000000AE5
+t1280327653
+s2789
+i<Foundation/Foundation.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Utils/XMLNodeString.h
+c000000004C503FE500000000000008F8
+t1280327653
+s2296
+i"GDataXMLNode.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/CategoryListView.xib
+c000000004C503FE500000000000046F0
+t1280327653
+s18160
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/CustomizedTableCellsView.xib
+c000000004C503FE500000000000018AD
+t1280327653
+s6317
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/Default.png
+c000000004C503FE5000000000002E568
+t1280327653
+s189800
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/ItemListView.xib
+c000000004C503FE500000000000046E1
+t1280327653
+s18145
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/MainWindow.xib
+c000000004C503FE50000000000004C00
+t1280327653
+s19456
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/NyhtrViewController.xib
+c000000004C503FE500000000000056E8
+t1280327653
+s22248
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/WebView.xib
+c000000004C503FE50000000000004DC0
+t1280327653
+s19904
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/header.png
+c000000004C503FE50000000000006D4F
+t1280327653
+s27983
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app
+t1287752011
+s476
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app.dSYM
+t1287752011
+s102
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/CategoryListView.nib
+t1280336012
+s1067
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/CustomizedTableCellsView.nib
+t1280336012
+s1197
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/Default.png
+t1280336013
+s189800
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/Info.plist
+t1287664375
+s676
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/ItemListView.nib
+t1280336013
+s1067
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/MainWindow.nib
+t1280336013
+s1095
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr
+t1287752010
+s152108
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/NyhtrViewController.nib
+t1280336014
+s1422
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/PkgInfo
+t1287664375
+s8
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/WebView.nib
+t1280336013
+s1171
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/header.png
+t1280336013
+s27983
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/icon_karl.png
+t1287664375
+s9142
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CategoryListViewCtrl.o
+t1287752008
+s67264
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CustomizedTableCells.o
+t1287752008
+s49972
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/DataStorage.o
+t1287752008
+s8864
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GDataXMLNode.o
+t1287752008
+s82668
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GSNSDataExtensions.o
+t1287752008
+s14196
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/HttpConnection.o
+t1287752009
+s29240
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ItemListViewCtrl.o
+t1287752008
+s65344
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/Nyhtr.LinkFileList
+c000000004CC189300000000000000A1D
+t1287751984
+s2589
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrAppDelegate.o
+t1287752007
+s56560
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrViewController.o
+t1287752007
+s41640
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ServerConnection.o
+t1287752008
+s58104
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UICachedImageMgr.o
+t1287752009
+s79324
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIPrefix.o
+t1287752009
+s7572
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIUtils.o
+t1287752009
+s61484
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/WebViewCtrl.o
+t1287752008
+s50932
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/XMLNodeString.o
+t1287752008
+s45160
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/main.o
+t1287752007
+s6372
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/main.m
 c000000004C503FE50000000000000164
 t1280327653
 s356
@@ -995,6 +1519,10 @@ t1280327653
 s356
 i<UIKit/UIKit.h>
 
+N/var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch.gch
+t1287752003
+s15498480
+
 N/var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch.gch
 t1280336014
 s15289392
@@ -1010,7 +1538,20 @@ s1000
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies309357175#309357175#0(0"0(0#1#0"8604245408#0"0#
+lSLF07#2@18"Check dependencies309445005#309445005#0(0"0(0#1#0"8650160544#0"0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CategoryListViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CategoryListViewCtrl.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444807.775146
+e309444808.178831
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CategoryListViewCtrl.o
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CategoryListViewCtrl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CategoryListViewCtrl.m309444807#309444808#0(0"0(0#0#103"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CategoryListViewCtrl.m8656887424#2402"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CategoryListViewCtrl.m" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CategoryListViewCtrl.o"0#
 
 CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CategoryListViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/CategoryListViewCtrl.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309356953.865616
@@ -1038,6 +1579,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@72"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/CategoryListViewCtrl.m302028815#302028815#0(0"0(0#0#64"/Users/karlroos/Downloads/Nyhtr-5/Classes/CategoryListViewCtrl.m8606395200#1938"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/CategoryListViewCtrl.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CategoryListViewCtrl.o0#
 
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CustomizedTableCells.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CustomizedTableCells.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444808.178916
+e309444808.275945
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CustomizedTableCells.o
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CustomizedTableCells.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CustomizedTableCells.m309444808#309444808#0(0"0(0#0#103"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CustomizedTableCells.m8659255904#2402"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CustomizedTableCells.m" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CustomizedTableCells.o"0#
+
 CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CustomizedTableCells.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/CustomizedTableCells.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309356955.706524
 e309356955.912744
@@ -1063,6 +1617,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@72"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/CustomizedTableCells.m302028815#302028815#0(0"0(0#0#64"/Users/karlroos/Downloads/Nyhtr-5/Classes/CustomizedTableCells.m8606024544#1938"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/CustomizedTableCells.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/CustomizedTableCells.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/DataStorage.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/DataStorage.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444808.750407
+e309444808.862161
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/DataStorage.o
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/DataStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/DataStorage.m309444808#309444808#0(0"0(0#0#103"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/DataStorage.m8657365760#2393"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/DataStorage.m" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/DataStorage.o"0#
 
 CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/DataStorage.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/../Utils/DataStorage.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309356958.569971
@@ -1090,6 +1657,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@72"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/DataStorage.m302028815#302028815#0(0"0(0#0#64"/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/DataStorage.m8608059584#1929"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/DataStorage.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/DataStorage.o0#
 
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GDataXMLNode.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GDataXMLNode.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444808.387338
+e309444808.749004
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GDataXMLNode.o
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GDataXMLNode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GDataXMLNode.m309444808#309444808#0(0"0(0#0#104"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GDataXMLNode.m8651900032#2395"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GDataXMLNode.m" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GDataXMLNode.o"0#
+
 CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GDataXMLNode.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/../Utils/GDataXMLNode.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309356956.061773
 e309356963.177924
@@ -1116,6 +1696,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@73"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GDataXMLNode.m302028815#302028815#0(0"0(0#0#65"/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GDataXMLNode.m8601334816#1931"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GDataXMLNode.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GDataXMLNode.o0#
 
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GSNSDataExtensions.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GSNSDataExtensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444808.656509
+e309444808.750320
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GSNSDataExtensions.o
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GSNSDataExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GSNSDataExtensions.m309444808#309444808#0(0"0(0#0#110"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GSNSDataExtensions.m8659857856#2407"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GSNSDataExtensions.m" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GSNSDataExtensions.o"0#
+
 CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GSNSDataExtensions.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/../Utils/GSNSDataExtensions.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309356956.176299
 e309356958.232904
@@ -1141,6 +1734,21 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@79"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GSNSDataExtensions.m302028815#302028815#0(0"0(0#0#71"/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GSNSDataExtensions.m8608340960#1943"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/GSNSDataExtensions.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/GSNSDataExtensions.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/HttpConnection.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444808.975592
+e309444809.121689
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/HttpConnection.o
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.m: In function '-[HttpConnection connectionDidFinishLoading:]':
+o/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.m:207: warning: format not a string literal and no format arguments
+lSLF07#2@111"Compile /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.m309444808#309444809#0(336"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.m: In function '-[HttpConnection connectionDidFinishLoading:]':/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.m:207: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments309444809#166#170#0(6@103"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.m302020453#207#0#207#0#51"format not a string literal and no format arguments0(0#0#103"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.m8610493600#2396"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.m" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/HttpConnection.o"0#
 
 CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/HttpConnection.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/Utils/HttpConnection.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309356958.891371
@@ -1172,6 +1780,19 @@ o/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m: In function '
 o/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m:207: warning: format not a string literal and no format arguments
 lSLF07#2@72"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m302028815#302028816#0(258"/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m: In function '-[HttpConnection connectionDidFinishLoading:]':/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m:207: warning: format not a string literal and no format arguments1(22@51"Format not a string literal and no format arguments302028815#127#131#0(6@64"/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m302020453#207#0#207#0#51"format not a string literal and no format arguments0(0#0#64"/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m8605256384#1932"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/HttpConnection.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/HttpConnection.o0#
 
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ItemListViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ItemListViewCtrl.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444807.778967
+e309444808.177499
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ItemListViewCtrl.o
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ItemListViewCtrl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ItemListViewCtrl.m309444807#309444808#0(0"0(0#0#99"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ItemListViewCtrl.m8619789024#2394"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ItemListViewCtrl.m" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ItemListViewCtrl.o"0#
+
 CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ItemListViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/ItemListViewCtrl.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309356954.653858
 e309356955.706417
@@ -1197,6 +1818,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@68"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/ItemListViewCtrl.m302028815#302028815#0(0"0(0#0#60"/Users/karlroos/Downloads/Nyhtr-5/Classes/ItemListViewCtrl.m8610045152#1930"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/ItemListViewCtrl.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ItemListViewCtrl.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrAppDelegate.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444804.082985
+e309444807.778858
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrAppDelegate.o
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrAppDelegate.m309444804#309444807#0(0"0(0#0#99"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrAppDelegate.m8647271840#2394"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrAppDelegate.m" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrAppDelegate.o"0#
 
 CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrAppDelegate.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/NyhtrAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309356950.301613
@@ -1224,6 +1858,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@68"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrAppDelegate.m302028814#302028815#0(0"0(0#0#60"/Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrAppDelegate.m8605572992#1930"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrAppDelegate.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrAppDelegate.o0#
 
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrViewController.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444807.638064
+e309444807.775034
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrViewController.o
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrViewController.m309444807#309444807#0(0"0(0#0#102"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrViewController.m8658154080#2400"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrViewController.m" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrViewController.o"0#
+
 CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrViewController.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/NyhtrViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309356953.457030
 e309356954.653743
@@ -1249,6 +1896,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@71"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrViewController.m302028815#302028815#0(0"0(0#0#63"/Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrViewController.m8608470656#1936"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/NyhtrViewController.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/NyhtrViewController.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ServerConnection.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ServerConnection.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444808.276057
+e309444808.387223
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ServerConnection.o
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ServerConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ServerConnection.m309444808#309444808#0(0"0(0#0#99"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ServerConnection.m8657933248#2394"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ServerConnection.m" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ServerConnection.o"0#
 
 CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ServerConnection.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/ServerConnection.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309356955.912887
@@ -1276,6 +1936,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@68"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/ServerConnection.m302028815#302028815#0(0"0(0#0#60"/Users/karlroos/Downloads/Nyhtr-5/Classes/ServerConnection.m8605409024#1930"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/ServerConnection.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/ServerConnection.o0#
 
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UICachedImageMgr.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UICachedImageMgr.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444808.862272
+e309444809.139078
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UICachedImageMgr.o
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UICachedImageMgr.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UICachedImageMgr.m309444808#309444809#0(0"0(0#0#105"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UICachedImageMgr.m8616208800#2400"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UICachedImageMgr.m" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UICachedImageMgr.o"0#
+
 CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UICachedImageMgr.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/Utils/UICachedImageMgr.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309356958.623638
 e309356958.891246
@@ -1301,6 +1974,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@74"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UICachedImageMgr.m302028815#302028816#0(0"0(0#0#66"/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UICachedImageMgr.m8606588256#1936"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UICachedImageMgr.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UICachedImageMgr.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIPrefix.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIPrefix.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444809.139259
+e309444809.199424
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIPrefix.o
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIPrefix.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIPrefix.m309444809#309444809#0(0"0(0#0#97"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIPrefix.m8658089664#2384"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIPrefix.m" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIPrefix.o"0#
 
 CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIPrefix.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/Utils/UIPrefix.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309356960.480451
@@ -1328,6 +2014,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@66"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIPrefix.m302028816#302028816#0(0"0(0#0#58"/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIPrefix.m8605401600#1920"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIPrefix.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIPrefix.o0#
 
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIUtils.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIUtils.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444809.121800
+e309444809.697770
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIUtils.o
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIUtils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIUtils.m309444809#309444809#0(0"0(0#0#96"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIUtils.m8659211872#2382"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIUtils.m" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIUtils.o"0#
+
 CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIUtils.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/Utils/UIUtils.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309356959.352424
 e309356960.480261
@@ -1353,6 +2052,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@65"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIUtils.m302028816#302028816#0(0"0(0#0#57"/Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIUtils.m8602970720#1918"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/Utils/UIUtils.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/UIUtils.o0#
+
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/WebViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/WebViewCtrl.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444808.177609
+e309444808.656395
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/WebViewCtrl.o
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/WebViewCtrl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/WebViewCtrl.m309444808#309444808#0(0"0(0#0#94"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/WebViewCtrl.m8660080256#2384"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/WebViewCtrl.m" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/WebViewCtrl.o"0#
 
 CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/WebViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/WebViewCtrl.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309356955.452085
@@ -1380,6 +2092,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@63"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/WebViewCtrl.m302028815#302028815#0(0"0(0#0#55"/Users/karlroos/Downloads/Nyhtr-5/Classes/WebViewCtrl.m8606378016#1920"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/WebViewCtrl.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/WebViewCtrl.o0#
 
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/XMLNodeString.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/XMLNodeString.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444808.749118
+e309444808.975483
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/XMLNodeString.o
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/XMLNodeString.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/XMLNodeString.m309444808#309444808#0(0"0(0#0#105"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/XMLNodeString.m8658490048#2397"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/XMLNodeString.m" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/XMLNodeString.o"0#
+
 CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/XMLNodeString.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Classes/../Utils/XMLNodeString.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309356958.233121
 e309356958.569827
@@ -1406,6 +2131,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@74"Compile /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/XMLNodeString.m302028815#302028815#0(0"0(0#0#66"/Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/XMLNodeString.m8606600864#1933"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/Classes/../Utils/XMLNodeString.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/XMLNodeString.o0#
 
+CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/main.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444804.081749
+e309444807.637856
+r1
+xCompileC
+xbuild/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/main.o
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/main.m309444804#309444807#0(0"0(0#0#79"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/main.m8649954368#2362"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/main.m" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/main.o"0#
+
 CCompileC build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/main.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s309356950.246145
 e309356953.456770
@@ -1431,6 +2169,24 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@48"Compile /Users/karlroos/Downloads/Nyhtr-5/main.m302028814#302028815#0(0"0(0#0#40"/Users/karlroos/Downloads/Nyhtr-5/main.m8609823104#1898"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap -iquote /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -I/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386 -I/Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources -include /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch -c /Users/karlroos/Downloads/Nyhtr-5/main.m -o /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/CategoryListView.xib"
+r0
+
+CCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/CustomizedTableCellsView.xib"
+r0
+
+CCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/ItemListView.xib"
+r0
+
+CCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/NyhtrViewController.xib"
+r0
+
+CCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/WebView.xib"
+r0
 
 CCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/XIBs/CategoryListView.xib"
 r0
@@ -1525,6 +2281,18 @@ xbuild/Debug-iphonesimulator/Nyhtr.app/icon_karl.png
 x../../../../../../Downloads/icon_karl.png
 lSLF07#2@46"Copy ../../../../../../Downloads/icon_karl.png309357175#309357175#0(0"0(0#0#126"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/../../../../../../Downloads/icon_karl.png8609750464#627"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/../../../../../../Downloads/icon_karl.png" "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app"0#
 
+CCpResource build/Debug-iphonesimulator/Nyhtr.app/icon_karl.png ../icon_karl.png
+r0
+
+CGenerateDSYMFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app.dSYM" "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr"
+s309444811.040362
+e309444811.256325
+r1
+xGenerateDSYMFile
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app.dSYM
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Nyhtr.app.dSYM build/Debug-iphonesimulator/Nyhtr.app/Nyhtr309444811#309444811#0(0"0(0#0#116"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr8655497984#485"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr" -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app.dSYM"0#
+
 CGenerateDSYMFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app.dSYM" "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr"
 s309356968.092254
 e309356969.334304
@@ -1542,6 +2310,16 @@ xGenerateDSYMFile
 x/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app.dSYM
 x/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr
 lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Nyhtr.app.dSYM build/Debug-iphonesimulator/Nyhtr.app/Nyhtr302028816#302028816#0(0"0(0#0#77"/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr8605947872#362"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr -o /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app.dSYM0#
+
+CLd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr" normal i386
+s309444809.697898
+e309444811.040116
+r1
+xLd
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr
+xnormal
+xi386
+lSLF07#2@121"Link /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr309444809#309444811#0(0"0(0#0#0"8655216896#1178"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-L/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" -filelist "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/Nyhtr.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lxml2.2 -framework QuartzCore -o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr"0#
 
 CLd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr" normal i386
 s309356963.178128
@@ -1563,6 +2341,9 @@ xnormal
 xi386
 lSLF07#2@82"Link /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr302028816#302028816#0(0"0(0#0#0"8601003712#932"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -L/Users/karlroos/Downloads/Nyhtr-5 -F/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator -filelist /Users/karlroos/Downloads/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Objects-normal/i386/Nyhtr.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lxml2.2 -framework QuartzCore -o /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Nyhtr0#
 
+CProcessInfoPlistFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app/Info.plist" Nyhtr-Info.plist
+r0
+
 CProcessInfoPlistFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Info.plist" Nyhtr-Info.plist
 s309357175.294817
 e309357175.418550
@@ -1580,6 +2361,19 @@ xProcessInfoPlistFile
 x/Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Info.plist
 xNyhtr-Info.plist
 lSLF07#2@24"Process Nyhtr-Info.plist302028812#302028812#0(0"0(0#0#50"/Users/karlroos/Downloads/Nyhtr-5/Nyhtr-Info.plist30681223440564324#458"    cd /Users/karlroos/Downloads/Nyhtr-5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Nyhtr-Info.plist -genpkginfo /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/karlroos/Downloads/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app/Info.plist0#
+
+CProcessPCH /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch.gch Nyhtr_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309444784.906919
+e309444804.081562
+r1
+xProcessPCH
+x/var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch.gch
+xNyhtr_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Nyhtr_Prefix.pch309444784#309444804#0(0"0(0#0#89"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Nyhtr_Prefix.pch8656865248#2220"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Nyhtr_Prefix.pch" -o /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cdjeowprmnepvkfhiaaenrlzfafu/Nyhtr_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-ehnthihafdimercidmjfspstwbzm/Nyhtr_Prefix.pch.gch Nyhtr_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s302028814.015127
@@ -1606,6 +2400,14 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@27"Precompile Nyhtr_Prefix.pch309356901#309356950#0(0"0(0#0#101"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Nyhtr_Prefix.pch7378429254040712192#2327"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-generated-files.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-own-target-headers.hmap" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-all-target-headers.hmap" -iquote "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/Nyhtr-project-headers.hmap" "-F/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Debug-iphonesimulator" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/libxml2 "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources/i386" "-I/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Nyhtr.build/Debug-iphonesimulator/Nyhtr.build/DerivedSources" -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/Nyhtr_Prefix.pch" -o /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-fomahrqqfqyazvauvxpkjrybtxjc/Nyhtr_Prefix.pch.gch0#
+
+CTouch "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app"
+s309444811.256429
+e309444811.259645
+r1
+xTouch
+x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app
+lSLF07#2@116"Touch /Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app309444811#309444811#0(0"0(0#0#0"8649685760#348"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphonesimulator/Nyhtr.app"0#
 
 CTouch "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Debug-iphonesimulator/Nyhtr.app"
 s309357175.548637

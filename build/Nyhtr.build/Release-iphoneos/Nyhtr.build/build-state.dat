@@ -1,0 +1,770 @@
+TNyhtr
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CB05A750000000000000110
+t1286625909
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CABEFF700000000000001E5
+t1286336503
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CAC027A00000000003532B0
+t1286341242
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CAC039400000000003E1F20
+t1286341524
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CAC037B0000000000001466
+t1286341499
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CALayer.h
+c000000004CAC06DA00000000000075D9
+t1286342362
+s30169
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CAC097E0000000000267530
+t1286343038
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SCNetworkReachability.h
+c000000004CAC01F3000000000000353E
+t1286341107
+s13630
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CAC135C0000000000000AA1
+t1286345564
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h
+c000000004CAC135C00000000000038E3
+t1286345564
+s14563
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CAC160A0000000000C743B0
+t1286346250
+s13058992
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netinet/in.h
+c000000004CABFAAE0000000000005462
+t1286339246
+s21602
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libxml2.2.dylib
+c000000004CAC02A800000000001E1430
+t1286341288
+s1971248
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/../../../../../../Downloads/icon_karl.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/DataStorage.h
+c000000004C503FE500000000000000F8
+t1280327653
+s248
+i<Foundation/Foundation.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/DataStorage.m
+c000000004C503FE50000000000000186
+t1280327653
+s390
+i"DataStorage.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GDataDefines.h
+c000000004C503FE50000000000000B5F
+t1280327653
+s2911
+i"GDataXMLNode.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GDataXMLNode.m
+c000000004C503FE5000000000000A302
+t1280327653
+s41730
+i"GDataXMLNode.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GSNSDataExtensions.m
+c000000004C503FE50000000000005E71
+t1280327653
+s24177
+i"GSNSDataExtensions.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/UIPrefix.h
+c000000004C503FE50000000000001112
+t1280327653
+s4370
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/XMLNodeString.h
+c000000004C503FE500000000000008F8
+t1280327653
+s2296
+i"GDataXMLNode.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/XMLNodeString.m
+c000000004C503FE50000000000002186
+t1280327653
+s8582
+i"XMLNodeString.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CategoryListViewCtrl.h
+c000000004C503FE50000000000000158
+t1280327653
+s344
+i<UIKit/UIKit.h>
+i"ServerConnection.h"
+i"NyhtrAppDelegate.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CategoryListViewCtrl.m
+c000000004C503FE50000000000001812
+t1280327653
+s6162
+i"DataStorage.h"
+i"CommonLiterals.h"
+i"ItemListViewCtrl.h"
+i"CategoryListViewCtrl.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CommonLiterals.h
+c000000004C503FE5000000000000082F
+t1280327653
+s2095
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CustomizedTableCells.h
+c000000004C503FE50000000000000314
+t1280327653
+s788
+i<UIKit/UIKit.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CustomizedTableCells.m
+c000000004C503FE50000000000000F46
+t1280327653
+s3910
+i"CustomizedTableCells.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ItemListViewCtrl.h
+c000000004C503FE500000000000001F5
+t1280327653
+s501
+i<UIKit/UIKit.h>
+i"CustomizedTableCells.h"
+i"GDataDefines.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ItemListViewCtrl.m
+c000000004C503FE50000000000001479
+t1280327653
+s5241
+i"XMLNodeString.h"
+i"NyhtrAppDelegate.h"
+i"CommonLiterals.h"
+i"WebViewCtrl.h"
+i"ItemListViewCtrl.h"
+i"DataStorage.h"
+i"UICachedImageMgr.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrAppDelegate.h
+c000000004C503FE50000000000000337
+t1280327653
+s823
+i<UIKit/UIKit.h>
+i"ServerConnection.h"
+i"NyhtrViewController.h"
+i"CommonLiterals.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrAppDelegate.m
+c000000004C503FE5000000000000050E
+t1280327653
+s1294
+i"NyhtrAppDelegate.h"
+i"DataStorage.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrViewController.h
+c000000004C503FE500000000000000AE
+t1280327653
+s174
+i<UIKit/UIKit.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrViewController.m
+c000000004C503FE50000000000000265
+t1280327653
+s613
+i"NyhtrViewController.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ServerConnection.h
+c000000004C503FE500000000000001B4
+t1280327653
+s436
+i<Foundation/Foundation.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ServerConnection.m
+c000000004C503FE50000000000000914
+t1280327653
+s2324
+i"UIPrefix.h"
+i"XMLNodeString.h"
+i"NyhtrAppDelegate.h"
+i"ServerConnection.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/GSNSDataExtensions.h
+c000000004C503FE50000000000000AE5
+t1280327653
+s2789
+i<Foundation/Foundation.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.h
+c000000004C503FE500000000000004EF
+t1280327653
+s1263
+i"UIPrefix.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.m
+c000000004C503FE500000000000013C7
+t1280327653
+s5063
+i"UIUtils.h"
+i"HttpConnection.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UICachedImageMgr.h
+c000000004C503FE50000000000000620
+t1280327653
+s1568
+i"HttpConnection.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UICachedImageMgr.m
+c000000004C503FE5000000000000283A
+t1280327653
+s10298
+i"UIUtils.h"
+i"UICachedImageMgr.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIPrefix.h
+c000000004C503FE50000000000001259
+t1280327653
+s4697
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIPrefix.m
+c000000004C503FE500000000000001FE
+t1280327653
+s510
+i"UIPrefix.h"
+i"UIUtils.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIUtils.h
+c000000004C503FE500000000000004FF
+t1280327653
+s1279
+i<UIKit/UIKit.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIUtils.m
+c000000004C503FE5000000000000185F
+t1280327653
+s6239
+i<SystemConfiguration/SCNetworkReachability.h>
+i<netinet/in.h>
+i"GSNSDataExtensions.h"
+i"UIUtils.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/WebViewCtrl.h
+c000000004C503FE500000000000001B0
+t1280327653
+s432
+i"GDataDefines.h"
+i<UIKit/UIKit.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/WebViewCtrl.m
+c000000004C503FE50000000000000830
+t1280327653
+s2096
+i"WebViewCtrl.h"
+i"XMLNodeString.h"
+i<QuartzCore/CALayer.h>
+i<UIKit/UIView.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Nyhtr_Prefix.pch
+c000000004C503FE500000000000000C9
+t1280327653
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"UIPrefix.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Utils/DataStorage.h
+c000000004C503FE500000000000000F8
+t1280327653
+s248
+i<Foundation/Foundation.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Utils/GDataDefines.h
+c000000004C503FE50000000000000B5F
+t1280327653
+s2911
+i"GDataXMLNode.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Utils/GDataXMLNode.h
+c000000004C503FE500000000000018B2
+t1280327653
+s6322
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+i<libxml/parser.h>
+i<libxml/xmlstring.h>
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+i"GDataDefines.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Utils/GSNSDataExtensions.h
+c000000004C503FE50000000000000AE5
+t1280327653
+s2789
+i<Foundation/Foundation.h>
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Utils/XMLNodeString.h
+c000000004C503FE500000000000008F8
+t1280327653
+s2296
+i"GDataXMLNode.h"
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/CategoryListView.xib
+c000000004C503FE500000000000046F0
+t1280327653
+s18160
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/CustomizedTableCellsView.xib
+c000000004C503FE500000000000018AD
+t1280327653
+s6317
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/Default.png
+c000000004C503FE5000000000002E568
+t1280327653
+s189800
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/ItemListView.xib
+c000000004C503FE500000000000046E1
+t1280327653
+s18145
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/MainWindow.xib
+c000000004C503FE50000000000004C00
+t1280327653
+s19456
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/NyhtrViewController.xib
+c000000004C503FE500000000000056E8
+t1280327653
+s22248
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/WebView.xib
+c000000004C503FE50000000000004DC0
+t1280327653
+s19904
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/header.png
+c000000004C503FE50000000000006D4F
+t1280327653
+s27983
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/CategoryListViewCtrl.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/CustomizedTableCells.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/DataStorage.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/GDataXMLNode.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/GSNSDataExtensions.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/HttpConnection.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/ItemListViewCtrl.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/Nyhtr
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/Nyhtr.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/NyhtrAppDelegate.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/NyhtrViewController.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/ServerConnection.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/UICachedImageMgr.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/UIPrefix.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/UIUtils.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/WebViewCtrl.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/XMLNodeString.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/CategoryListViewCtrl.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/CustomizedTableCells.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/DataStorage.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/GDataXMLNode.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/GSNSDataExtensions.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/HttpConnection.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/ItemListViewCtrl.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/Nyhtr
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/Nyhtr.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/NyhtrAppDelegate.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/NyhtrViewController.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/ServerConnection.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/UICachedImageMgr.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/UIPrefix.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/UIUtils.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/WebViewCtrl.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/XMLNodeString.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app.dSYM
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/CategoryListView.nib
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/CustomizedTableCellsView.nib
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/Default.png
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/Info.plist
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/ItemListView.nib
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/MainWindow.nib
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/Nyhtr
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/NyhtrViewController.nib
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/PkgInfo
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/ResourceRules.plist
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/WebView.nib
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/header.png
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/icon_karl.png
+t2
+s0
+
+N/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/main.m
+c000000004C503FE50000000000000164
+t1280327653
+s356
+i<UIKit/UIKit.h>
+
+N/Users/karlroos/Library/MobileDevice/Provisioning Profiles/9C4C38BD-3CB0-4D6A-ABCF-D885C91B5FF8.mobileprovision
+c000000004CC0340E0000000000002CCF
+t1287664654
+s11471
+
+N/var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cadsbhidcptxzhdbqdammwxmylcx/Nyhtr_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-gkmssrspmvavnfdcqhzckrkmmgkf/Nyhtr_Prefix.pch.gch
+t2
+s0
+
+NNyhtr-Info.plist
+c000000004CC032EE00000000000003E8
+t1287664366
+s1000
+
+CCodeSign "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app"
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/CategoryListViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CategoryListViewCtrl.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/CustomizedTableCells.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CustomizedTableCells.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/DataStorage.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/DataStorage.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/GDataXMLNode.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GDataXMLNode.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/GSNSDataExtensions.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GSNSDataExtensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/HttpConnection.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/ItemListViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ItemListViewCtrl.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/NyhtrAppDelegate.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/NyhtrViewController.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/ServerConnection.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ServerConnection.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/UICachedImageMgr.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UICachedImageMgr.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/UIPrefix.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIPrefix.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/UIUtils.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIUtils.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/WebViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/WebViewCtrl.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/XMLNodeString.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/XMLNodeString.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/main.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/CategoryListViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CategoryListViewCtrl.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/CustomizedTableCells.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/CustomizedTableCells.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/DataStorage.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/DataStorage.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/GDataXMLNode.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GDataXMLNode.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/GSNSDataExtensions.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/GSNSDataExtensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/HttpConnection.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/HttpConnection.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/ItemListViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ItemListViewCtrl.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/NyhtrAppDelegate.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/NyhtrViewController.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/NyhtrViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/ServerConnection.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/ServerConnection.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/UICachedImageMgr.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UICachedImageMgr.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/UIPrefix.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIPrefix.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/UIUtils.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/Utils/UIUtils.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/WebViewCtrl.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/WebViewCtrl.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/XMLNodeString.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/Classes/../Utils/XMLNodeString.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/main.o "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/CategoryListView.xib"
+r0
+
+CCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/CustomizedTableCellsView.xib"
+r0
+
+CCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/ItemListView.xib"
+r0
+
+CCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/NyhtrViewController.xib"
+r0
+
+CCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/WebView.xib"
+r0
+
+CCopyPNGFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/Default.png" XIBs/Default.png
+r0
+
+CCopyPNGFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/header.png" XIBs/header.png
+r0
+
+CCopyPNGFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/icon_karl.png" ../../../../../../Downloads/icon_karl.png
+r0
+
+CCpResource build/Release-iphoneos/Nyhtr.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/Nyhtr" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app.dSYM" "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/Nyhtr"
+r0
+
+CLd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv6/Nyhtr" normal armv6
+r0
+
+CLd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Objects-normal/armv7/Nyhtr" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/Info.plist" Nyhtr-Info.plist
+r0
+
+CProcessPCH /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-cadsbhidcptxzhdbqdammwxmylcx/Nyhtr_Prefix.pch.gch Nyhtr_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-gkmssrspmvavnfdcqhzckrkmmgkf/Nyhtr_Prefix.pch.gch Nyhtr_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/karlroos/Library/MobileDevice/Provisioning Profiles/9C4C38BD-3CB0-4D6A-ABCF-D885C91B5FF8.mobileprovision" "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Release-iphoneos/Nyhtr.build/Nyhtr.xcent"
+r0
+
+CTouch "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Release-iphoneos/Nyhtr.app"
+r0
+

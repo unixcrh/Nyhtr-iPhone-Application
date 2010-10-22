@@ -1,5 +1,12 @@
 // !$*UTF8*$!
 {
+	036EFC2211C9032200CF9898 /* CustomizedTableCells.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 1599}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 402}";
+		};
+	};
 	1D6058900D05DD3D006BFB54 /* Nyhtr */ = {
 		activeExec = 0;
 		executables = (
@@ -7,9 +14,10 @@
 		);
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv6;
 		activeBuildConfigurationName = Debug;
 		activeExecutable = D5D9A631120097F400E236B7 /* Nyhtr */;
-		activeSDKPreference = iphoneos4.0;
+		activeSDKPreference = iphoneos4.2;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* Nyhtr */;
 		addToTargets = (
 			1D6058900D05DD3D006BFB54 /* Nyhtr */,
@@ -41,12 +49,29 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 309356885;
-			PBXWorkspaceStateSaveDate = 309356885;
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					281,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 309440791;
+			PBXWorkspaceStateSaveDate = 309440791;
 		};
 		perUserProjectItems = {
-			D578EABC12706AB200AB9952 /* PBXBookmark */ = D578EABC12706AB200AB9952 /* PBXBookmark */;
-			D578EAD412706B9B00AB9952 /* PBXBookmark */ = D578EAD412706B9B00AB9952 /* PBXBookmark */;
+			D55BD0CE1271C1A600C9DF41 /* PBXTextBookmark */ = D55BD0CE1271C1A600C9DF41 /* PBXTextBookmark */;
+			D55BD0CF1271C1A600C9DF41 /* PBXBookmark */ = D55BD0CF1271C1A600C9DF41 /* PBXBookmark */;
+			D55BD0D61271C26000C9DF41 /* PBXBookmark */ = D55BD0D61271C26000C9DF41 /* PBXBookmark */;
 		};
 		sourceControlManager = D5D9A6481200981500E236B7 /* Source Control */;
 		userBuildSettings = {
@@ -57,13 +82,23 @@
 			sepNavWindowFrame = "{{237, 200}, {1061, 598}}";
 		};
 	};
-	D578EABC12706AB200AB9952 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = D578EAB412706A4400AB9952 /* icon_karl.png */;
+	D55BD0CE1271C1A600C9DF41 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 036EFC2211C9032200CF9898 /* CustomizedTableCells.m */;
+		name = "CustomizedTableCells.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 402;
+		vrLoc = 0;
 	};
-	D578EAD412706B9B00AB9952 /* PBXBookmark */ = {
+	D55BD0CF1271C1A600C9DF41 /* PBXBookmark */ = {
 		isa = PBXBookmark;
-		fRef = D578EAB412706A4400AB9952 /* icon_karl.png */;
+		fRef = D55BD0BE1271C02900C9DF41 /* icon_karl.png */;
+	};
+	D55BD0D61271C26000C9DF41 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D55BD0BE1271C02900C9DF41 /* icon_karl.png */;
 	};
 	D5D9A631120097F400E236B7 /* Nyhtr */ = {
 		isa = PBXExecutable;
@@ -89,6 +124,8 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = Nyhtr;
+		savedGlobals = {
+		};
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
