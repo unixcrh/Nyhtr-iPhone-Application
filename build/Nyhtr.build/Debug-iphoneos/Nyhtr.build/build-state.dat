@@ -1,7 +1,7 @@
 TNyhtr
 v7
 r0
-t309445046.218263
+t309531364.196129
 cCheck dependencies
 cCpResource build/Debug-iphoneos/Nyhtr.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
 cProcessInfoPlistFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphoneos/Nyhtr.app/Info.plist" Nyhtr-Info.plist
@@ -11,7 +11,6 @@ cCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Ap
 cCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/MainWindow.xib"
 cCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/NyhtrViewController.xib"
 cCompileXIB "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/XIBs/WebView.xib"
-cCopyPNGFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphoneos/Nyhtr.app/Default.png" XIBs/Default.png
 cCopyPNGFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphoneos/Nyhtr.app/header.png" XIBs/header.png
 cCopyPNGFile "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphoneos/Nyhtr.app/icon_karl.png" ../icon_karl.png
 cProcessPCH /var/folders/J0/J0PhvtUiFom-xAITki9J5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nyhtr_Prefix-foqnoqnbglwtykgbtbvecxgeorto/Nyhtr_Prefix.pch.gch Nyhtr_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
@@ -1875,16 +1874,16 @@ s1000
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies309445046#309445046#0(0"0(0#1#0"8658658304#0"0#
+lSLF07#2@18"Check dependencies309531362#309531363#0(0"0(0#1#0"3343187568374212096#0"0#
 
 CCodeSign "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphoneos/Nyhtr.app"
-s309445022.245334
-e309445027.171683
+s309531363.031883
+e309531364.196079
 r1
 xCodeSign
 x/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphoneos/Nyhtr.app
 o/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphoneos/Nyhtr.app: replacing existing signature
-lSLF07#2@39"CodeSign build/Debug-iphoneos/Nyhtr.app309445022#309445027#0(134"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphoneos/Nyhtr.app: replacing existing signature0(0#0#103"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphoneos/Nyhtr.app8667215104#779"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Karl Roos (BP6LKXH925)" "--resource-rules=/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphoneos/Nyhtr.app/ResourceRules.plist" --entitlements "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphoneos/Nyhtr.build/Nyhtr.xcent" "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphoneos/Nyhtr.app"0#
+lSLF07#2@39"CodeSign build/Debug-iphoneos/Nyhtr.app309531363#309531364#0(134"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphoneos/Nyhtr.app: replacing existing signature0(0#0#103"/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphoneos/Nyhtr.app8317989435550692352#779"    cd "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Karl Roos (BP6LKXH925)" "--resource-rules=/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphoneos/Nyhtr.app/ResourceRules.plist" --entitlements "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Nyhtr.build/Debug-iphoneos/Nyhtr.build/Nyhtr.xcent" "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone App/git/build/Debug-iphoneos/Nyhtr.app"0#
 
 CCodeSign "/Users/karlroos/Dropbox/Projects/Clients/Roos Media/Nyhtr iPhone Application/Nyhtr-5/build/Debug-iphoneos/Nyhtr.app"
 s309357440.121830
